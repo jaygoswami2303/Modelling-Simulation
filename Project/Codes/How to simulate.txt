@@ -1,0 +1,7 @@
+1. Install processing.
+2. Open the model file (.pde) in processing.
+3. Press play button to start simulation.
+
+For changing parameters:
+
+Change the value of global variables defined for each parameters in the code.
